@@ -47,6 +47,7 @@ void draw() {
   }
   
   redraw = false;
+  save("output.png");
   
   }
 
